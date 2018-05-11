@@ -24,13 +24,13 @@ include_once 'header.php';
                             <div class="row">
                                 <div class="col-sm-4">
                                     <i class="fa fa-users fa-3x icon-feature"></i>
-                                    <h3 class="feature-title">Visitor Log, Resident Profile</h3>
+                                    <h3 class="feature-title">Visitor Log</h3>
                                     <div class="feature-cont">
                                         <p class="feature-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam ullamcorper eros id convallis. Vivamus pellentesque orci magna, non pulvinar arcu congue eget. Sed neque metus, sodales sit amet dapibus ut, ullamcorper nec eros.</p></div>
                                 </div>
                                 <div class="col-sm-4">
                                     <i class="fa fa-folder-o fa-3x icon-feature"></i>
-                                    <h3 class="feature-title">Guesthouse booking, Amenities booking</h3>
+                                    <h3 class="feature-title">Guesthouse booking</h3>
                                     <div class="feature-cont">
                                         <p class="feature-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam ullamcorper eros id convallis. Vivamus pellentesque orci magna, non pulvinar arcu congue eget. Sed neque metus, sodales sit amet dapibus ut, ullamcorper nec eros.</p></div>
                                 </div>
