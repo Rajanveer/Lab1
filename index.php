@@ -38,7 +38,7 @@ include_once 'header.php';
                                     <i class="fa fa-cog fa-3x icon-feature"></i>
                                     <h3 class="feature-title">Service Repair/Request</h3>
                                     <div class="feature-cont">
-                                        <p class="feature-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam ullamcorper eros id convallis. Vivamus pellentesque orci magna, non pulvinar arcu congue eget. Sed neque metus, sodales sit amet dapibus ut, ullamcorper nec eros.</p></div>
+                                        <p class="feature-desc">Lorem , consectetur adipiscing elit. Vivamus aliquam ullamcorper eros id convallis. Vivamus pellentesque orci magna, non pulvinar arcu congue eget. Sed neque metus, sodales sit amet dapibus ut, ullamcorper nec eros.</p></div>
                                 </div>
                             </div>
                         </div>
