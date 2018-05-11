@@ -6,7 +6,7 @@ include_once 'header.php';
                 <div id="banner-container">
                     <div class="page-wrapper">
                         <div class="banner-title-cont">
-                            <h2 class="banner-title">An application to manage your condo better</h2>
+                            <h2 class="banner-title">Manage condo better</h2>
                         </div>
                         <div class="ghost-button-cont"><a href="#" class="ghost button">Try Now</a></div>
                     </div>
